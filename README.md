@@ -1,3 +1,54 @@
+This is a modern travel guide web application developed using Laravel. It allows users to explore destinations, view travel packages, stay updated with travel news, and browse a public gallery. Admins have full control through a secure dashboard to manage destinations, packages, news posts, and user uploads. The site features a fully custom UI, dynamic filtering, real-time detail panels, and user-friendly interactions, offering a complete travel planning experience.
+
+Home Page
+
+<img width="2073" height="3031" alt="home" src="https://github.com/user-attachments/assets/828b6d5c-a8a3-4296-bd31-352da679d3db" />
+
+<br><br>
+
+Destination Page
+
+<img width="1920" height="2422" alt="destination" src="https://github.com/user-attachments/assets/209527a8-f5ee-407e-a5ee-28e1d991b5ce" />
+
+<br><br>
+
+Packages Page
+
+<img width="1920" height="1762" alt="packages" src="https://github.com/user-attachments/assets/08dbb1ef-ffb6-4404-8475-bb53fed10e05" />
+
+<br><br>
+
+News Page
+
+<img width="1920" height="1990" alt="news" src="https://github.com/user-attachments/assets/a8a5691a-b476-4a37-b86e-bc08e14389e9" />
+
+<br><br>
+
+Gallery Page
+
+<img width="1920" height="1056" alt="gallery" src="https://github.com/user-attachments/assets/9a3c0d15-80aa-47fa-817f-ea1c56c56536" />
+
+<br><br>
+
+About Page
+
+<img width="1920" height="1768" alt="about" src="https://github.com/user-attachments/assets/422b7253-4c77-4019-aee4-6da96b542ba5" />
+
+<br><br>
+
+User Profile's Page
+
+<img width="1920" height="1668" alt="user profile" src="https://github.com/user-attachments/assets/61e2e02e-5198-416e-b350-7bef30d91014" />
+
+<br><br>
+
+Admin Page
+
+<img width="1920" height="922" alt="admin panel" src="https://github.com/user-attachments/assets/0eaa7451-6c5a-49f2-bfa0-7545cf4afab2" />
+
+<br><br>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
